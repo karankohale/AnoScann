@@ -14,23 +14,16 @@ To use this tool, you'll need to have Python 3.x and the requests library instal
    ```
    cd <your-repository>
    ```
-3. Run the script by executing the following command:
+3. Provide the executable permission:
    ```
-   python3 AnoScann.py
+   chmod +x AnoScann.py
    ```
    Replace `<filename>` with the name of the file you want to scan.
 
    For example, to scan a file called "sample.exe" in the current directory, run:
    ```
-   python test.py                                            
-    ___               _____                      
-   /   |  ____  ____ / ___/_________ _____  ____ 
-  / /| | / __ \/ __ \\__ \/ ___/ __ `/ __ \/ __ \
- / ___ |/ / / / /_/ /__/ / /__/ /_/ / / / / / / /
-/_/  |_/_/ /_/\____/____/\___/\__,_/_/ /_/_/ /_/ 
-                                                 
-
-
+   python AnoScann.py                                            
+   ```
 Created By Karan Kohale
 Enter the path of the file you want to scan: <Your File Path Here>
 
