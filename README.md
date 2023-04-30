@@ -1,5 +1,3 @@
-Sure, here's an example usage description that you can include on your GitHub repository:
-
 ## Usage
 
 This tool is designed to scan any executable files, images, URLs, or other files and provide their MD5 and SHA-256 hash values as well as a reputation check on VirusTotal.
@@ -40,4 +38,4 @@ To use this tool, you'll need to have Python 3.x and the requests library instal
 
 4. The script will then display the hash values and the reputation check result for the file in an ASCII art style with the name "Karan Kohale" at the top. If the reputation check result is 1 or greater, a message in red color will be displayed with a link to the VirusTotal graph for the file.
 
-Note: This tool is provided for educational and research purposes only. The author is not responsible for any damage or harm caused by the misuse of this tool. Use at your own risk.
+## Note: This tool is provided for educational and research purposes only. The author is not responsible for any damage or harm caused by the misuse of this tool. Use at your own risk.
