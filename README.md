@@ -24,16 +24,16 @@ To use this tool, you'll need to have Python 3.x and the requests library instal
    ```
    python AnoScann.py                                            
    ```
-Created By Karan Kohale
-Enter the path of the file you want to scan: <Your File Path Here>
+   Created By Karan Kohale
+   Enter the path of the file you want to scan: <Your File Path Here>
 
-MD5 Hash: bd3af0ad4bbe9def1d6bb2e189e1b4e5
-SHA-256 Hash: 822ac152bd7c2d9770b87c1feea03f22f2349a91b94481b268c739493a260f0b
+   MD5 Hash: bd3af0ad4bbe9def1d6bb2e189e1b4e5
+   SHA-256 Hash: 822ac152bd7c2d9770b87c1feea03f22f2349a91b94481b268c739493a260f0b
 
-Enter your VirusTotal API key: <Enter Your VirusTotal API Key Here>
-VirusTotal Reputation: 0. This file seems to be safe.
+   Enter your VirusTotal API key: <Enter Your VirusTotal API Key Here>
 
-   ```
+   VirusTotal Reputation: 0. This file seems to be safe.
+
 
    You will be prompted to enter your VirusTotal API key. If you don't have an API key, you can get one by signing up at https://www.virustotal.com/gui/join-us.
 
